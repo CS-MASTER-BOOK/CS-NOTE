@@ -36,6 +36,21 @@
 
 <br>
 
+# 📁 Repository 폴더 구조
+
+```bash
+.
+├── OS # 도메인
+│   ├── 쓰레드와 프로세스의 차이에 대해서 설명해주세요. # 질문
+│   │   ├── README.md # 질문에 대한 답변 정리
+│   │
+│   └── README.md # 질문리스트 및 답변 링크
+│   ├── ...
+└── README.md # 현재 파일. 전체 설명.
+```
+
+<br>
+
 # 📖 Notion Link
 [Notion](https://purrfect-fridge-ab8.notion.site/CS-Master-Book-179f11fed59180e68b12c969e9b4eb67?pvs=4)
 
