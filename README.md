@@ -1,13 +1,13 @@
 <img src="https://github.com/user-attachments/assets/ca3bbc2d-a51e-4994-823d-e3652f5e8874" alt="CS-MASTER-BOOK-ANIMATION" width = 100% />
 
-<h1 align='center' >✦ INTRODUCE ✦</h1>
+<h2 align='center' >✦ INTRODUCE ✦</h2>
 
 <p align='center'>전반적인 CS 기출 질문들에 대한 마스터 노트 작성을 목표로 하는 레포지토리입니다.
 <br/> 취업 준비와 학습 두가지 방향성을 가지고 진행하고 있습니다.  </p>
 
 <p align = 'center'> 최종적으로는 해당 마스터 노트가 누군가의 학습에 도움이 될 수 있으면 합니다.😁  </p>
 
-<h1 align = 'center'>👩🏻‍💻 CONTRIBUTOR 👨‍🎓</h1>
+<h2 align = 'center'>👩🏻‍💻 CONTRIBUTOR 👨‍🎓</h2>
 
 <div align ='center'>
     <table>
@@ -63,8 +63,7 @@
 
 
 
-
-<h1 align='center'>📝 ROLES</h1>
+<h2 align='center'>📝 ROLES</h2>
 
 ```java
 1. CS 관련 질문 리스트업 (수시)
@@ -82,7 +81,7 @@
 
 
 
-<h1 align='center'>📁 REPOSITORY FOLDER TREE</h1>
+<h2 align='center'>📁 REPOSITORY FOLDER TREE</h2>
 
 ```bash
 .
@@ -97,11 +96,11 @@
 
 
 
-<h1 align='center'>🔗 LINK</h1>
+<h2 align='center'>🔗 LINK</h2>
 
-[![Notion](https://img.shields.io/badge/Notion-A3D8FF?style=for-the-badge&logo=notion&logoColor=black)](https://purrfect-fridge-ab8.notion.site/CS-Master-Book-179f11fed59180e68b12c969e9b4eb67?pvs=4)
+[![Notion](https://img.shields.io/badge/Notion-A3D8FF?style=for-the-badge&logo=notion&logoColor=black)](https://purrfect-fridge-ab8.notion.site/CS-Master-Book-179f11fed59180e68b12c969e9b4eb67?pvs=4) [![GitHub Wiki](https://img.shields.io/badge/GitHub_Wiki-A3D8FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/CS-MASTER-BOOK/CS-NOTE/wiki)
 
-<h1 align='center'>📌 HISTORY</h1>
+<h2 align='center'>📌 HISTORY</h2>
 
 ```txt
 "2월": {
