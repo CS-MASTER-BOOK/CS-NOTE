@@ -9,7 +9,8 @@
 
 <h1 align = 'center'>👩🏻‍💻 CONTRIBUTOR 👨‍🎓</h1>
 
-<table>
+<div align ='center'>
+    <table>
   <tr>
     <td align="center">
       <a href="https://github.com/Be-HinD">
@@ -57,13 +58,15 @@
     </td>
   </tr>
 </table>
+</div>
+
 
 
 
 
 <h1 align='center'>📝 ROLES</h1>
 
-```json
+```java
 1. CS 관련 질문 리스트업 (수시)
 
 2. 매 회차별로 자신이 답변할 질문을 N개씩 고른다.
@@ -100,7 +103,7 @@
 
 <h1 align='center'>📌 HISTORY</h1>
 
-```json
+```txt
 "2월": {
 (02.01): 운영체제 리스트업 완료
 (02.05): 네트워크 질문 리스트업 추가 및 진행중~
