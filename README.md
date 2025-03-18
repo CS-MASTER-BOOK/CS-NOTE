@@ -1,6 +1,4 @@
-
-
-<img src="../../../Documents/GitHub/dalcheonroadhead-github-blog/dalcheonroadhead.github.io/images/README/제목 없음 (720 x 350 px).gif" alt="제목 없음 (720 x 350 px)"  width="100%" />
+<img src="https://github.com/user-attachments/assets/00142edd-76d0-430d-96ed-a534f3fc5c55" alt="CS-MASTER-BOOK-ANIMATION" width = 100% />
 
 # 🏁 Introduce
 
