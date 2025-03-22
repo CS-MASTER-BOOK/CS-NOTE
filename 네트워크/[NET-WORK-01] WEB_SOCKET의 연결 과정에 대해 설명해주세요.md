@@ -13,30 +13,25 @@
 <h1 align='center'>📝 자세한 설명 (추가 질문 대처하기!) 📝</h1>
 
 
+![1](https://github.com/user-attachments/assets/ef316854-0cd8-4ba5-b237-82a83c08bcbe)
+![2](https://github.com/user-attachments/assets/45efa77d-2bc9-469b-8576-c8788a5b6d91)
+![3](https://github.com/user-attachments/assets/2f1fa44f-e7ee-4a59-b303-1442693b1757)
+![4](https://github.com/user-attachments/assets/6f540335-8e96-4154-8b2e-1a78c61921f0)
 
-![1](../../../../Documents/GitHub/dalcheonroadhead-github-blog/dalcheonroadhead.github.io/images/[NET-WORK-01] WEB_SOCKET의 연결 과정에 대해 설명해주세요/1.svg)
 
-![2](../../../../Documents/GitHub/dalcheonroadhead-github-blog/dalcheonroadhead.github.io/images/[NET-WORK-01] WEB_SOCKET의 연결 과정에 대해 설명해주세요/2.svg)
-
-![3](../../../../Documents/GitHub/dalcheonroadhead-github-blog/dalcheonroadhead.github.io/images/[NET-WORK-01] WEB_SOCKET의 연결 과정에 대해 설명해주세요/3.svg)
-
-![4](../../../../Documents/GitHub/dalcheonroadhead-github-blog/dalcheonroadhead.github.io/images/[NET-WORK-01] WEB_SOCKET의 연결 과정에 대해 설명해주세요/4.svg)
 
 > 추가 설명!
 
 위와 같이 클라이언트에서는 `STOMP.connect(wss://서버 URL)`을 할 것인데요. (편의상 Client에서는 STOMP protocol을 쓰고 있다고 가정하겠습니다.) 하지만 해당 요청은 사실 `HTTP GET` 요청으로 보내지고, 다만 Header에 Upgrade라는 Attribute가 추가될 뿐입니다!
 
+![5](https://github.com/user-attachments/assets/08c1bee5-d72d-45b5-863a-e7c0e080ef17)
+![6](https://github.com/user-attachments/assets/d040c39e-4770-4f2c-b015-c89b3ce9ebe5)
+![8](https://github.com/user-attachments/assets/8a3fb61b-9d85-4428-875e-b5e9e17e8ab0)
+![7](https://github.com/user-attachments/assets/25ce7dc8-2247-4894-a684-cb43f47db7c9)
+![9](https://github.com/user-attachments/assets/05f1f292-eaa9-4fe9-9ea4-eb2233de9e73)
 
 
-![5](../../../../Documents/GitHub/dalcheonroadhead-github-blog/dalcheonroadhead.github.io/images/[NET-WORK-01] WEB_SOCKET의 연결 과정에 대해 설명해주세요/5.svg)
 
-![6](../../../../Documents/GitHub/dalcheonroadhead-github-blog/dalcheonroadhead.github.io/images/[NET-WORK-01] WEB_SOCKET의 연결 과정에 대해 설명해주세요/6.svg)
-
-![7](../../../../Documents/GitHub/dalcheonroadhead-github-blog/dalcheonroadhead.github.io/images/[NET-WORK-01] WEB_SOCKET의 연결 과정에 대해 설명해주세요/7.svg)
-
-![8](../../../../Documents/GitHub/dalcheonroadhead-github-blog/dalcheonroadhead.github.io/images/[NET-WORK-01] WEB_SOCKET의 연결 과정에 대해 설명해주세요/8.svg)
-
-![9](../../../../Documents/GitHub/dalcheonroadhead-github-blog/dalcheonroadhead.github.io/images/[NET-WORK-01] WEB_SOCKET의 연결 과정에 대해 설명해주세요/9.svg)
 
 이상입니다! 
 
