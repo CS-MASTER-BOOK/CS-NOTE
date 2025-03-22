@@ -20,7 +20,6 @@
       </a>
       <br />
       <a href="https://github.com/Be-HinD?tab=followers">
-        <img src="https://img.shields.io/github/followers/Be-HinD?style=social" alt="GitHub Followers"/>
       </a>
     </td>
     <td align="center">
@@ -31,7 +30,6 @@
       </a>
       <br />
       <a href="https://github.com/dalcheonroadhead?tab=followers">
-        <img src="https://img.shields.io/github/followers/dalcheonroadhead?style=social" alt="GitHub Followers"/>
       </a>
     </td>
     <td align="center">
@@ -42,7 +40,6 @@
       </a>
       <br />
       <a href="https://github.com/GEISHAz?tab=followers">
-        <img src="https://img.shields.io/github/followers/GEISHAz?style=social" alt="GitHub Followers"/>
       </a>
     </td>
     <td align="center">
@@ -53,12 +50,12 @@
       </a>
       <br />
       <a href="https://github.com/SeLino98?tab=followers">
-        <img src="https://img.shields.io/github/followers/SeLino98?style=social" alt="GitHub Followers"/>
       </a>
     </td>
   </tr>
 </table>
 </div>
+
 
 
 
