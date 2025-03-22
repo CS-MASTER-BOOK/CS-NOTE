@@ -7,6 +7,12 @@
 
 <p align = 'center'> 최종적으로는 해당 마스터 노트가 누군가의 학습에 도움이 될 수 있으면 합니다.😁  </p>
 
+<h2 align='center'>🔗 정리 링크 바로 가기 🔗</h2>
+
+<div align='center'><a href="https://github.com/CS-MASTER-BOOK/CS-NOTE/wiki"> <img src ='https://img.shields.io/badge/Git_Wiki_바로_가기-E3FDFD?style=for-the-badge&logo=github&logoColor=black' width ='80%'/></div>
+
+<div align = 'center'><a href="https://purrfect-fridge-ab8.notion.site/CS-Master-Book-179f11fed59180e68b12c969e9b4eb67?pvs=4"> <img src ='https://img.shields.io/badge/Notion_바로_가기-CBF1F5?style=for-the-badge&logo=notion&logoColor=black' width ='80%'/></a></div>
+
 <h2 align = 'center'>👩🏻‍💻 CONTRIBUTOR 👨‍🎓</h2>
 
 <div align ='center'>
@@ -56,10 +62,6 @@
 </table>
 </div>
 
-
-
-
-
 <h2 align='center'>📝 ROLES</h2>
 
 ```java
@@ -90,12 +92,6 @@
 │   ├── ...
 └── README.md # 현재 파일. 전체 설명.
 ```
-
-
-
-<h2 align='center'>🔗 LINK</h2>
-
-[![Notion](https://img.shields.io/badge/Notion-A3D8FF?style=for-the-badge&logo=notion&logoColor=black)](https://purrfect-fridge-ab8.notion.site/CS-Master-Book-179f11fed59180e68b12c969e9b4eb67?pvs=4) [![GitHub Wiki](https://img.shields.io/badge/GitHub_Wiki-A3D8FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/CS-MASTER-BOOK/CS-NOTE/wiki)
 
 <h2 align='center'>📌 HISTORY</h2>
 
